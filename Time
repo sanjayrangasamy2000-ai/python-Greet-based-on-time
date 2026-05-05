@@ -1,0 +1,12 @@
+time=15
+
+if(time<12):
+  print("Good Morning")
+elif(12<= time <17):
+  print("Good Day")
+elif(time>=17):
+  print("Good Evening")
+else:
+  print("Error")
+
+
